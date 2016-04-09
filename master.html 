@@ -1,0 +1,17 @@
+ <html>
+   <body>
+ 	<script>
+ 	var person = {
+ 		name: "mininuke ",
+ 		mood: "funny "
+ 	}
+
+     alert(person.name +  person.mood  )
+
+     
+
+
+
+ 	   </script>
+     </body>
+  </html>
